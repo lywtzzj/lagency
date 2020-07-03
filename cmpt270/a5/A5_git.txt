@@ -1,0 +1,136 @@
+Yuwen Liu
+CMPT270
+yul905
+11219371
+###########################################################################
+commit bb7ada2bbda8d131377a1148393e4c8e77d67e14
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sun Nov 17 13:39:45 2019 -0600
+
+    add ward options in main
+     and create a new frame for main
+
+commit 13236bd5e16fffa58ac353b31b3aa6ce8b957cf5
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sun Nov 17 13:27:02 2019 -0600
+
+    add doctor options in main
+
+commit a8a8d994b64f162281a918042afd525ecd58104e
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sun Nov 17 13:26:38 2019 -0600
+
+    add patient options in main
+
+commit 260a0164e47f45e3d9981e6e7b08d9ce8013feee
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sun Nov 17 13:22:30 2019 -0600
+
+    main panel make doctor patient and ward options
+
+commit 964eafceacb6ae596cca455862e470e8556ad8ca
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sun Nov 17 10:57:52 2019 -0600
+
+    doctorAddPanel changed
+
+commit 4e3ce08f79a4e5aba6b5dfc00d424e33d635ff93
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sun Nov 17 09:03:26 2019 -0600
+
+    doctorOpsFrame
+
+commit 2a2964e9606c03971d8005f454bbb899fade935d
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 21:43:28 2019 -0600
+
+    change all patient behaviors to be doctors
+
+commit 3a14dd203f864185aa90b764fb1409a248e14bbe
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 21:42:55 2019 -0600
+
+    create a new DoctorOptions panel
+
+commit 0db9a722bc48a11bf941585ce509c886dae14fcd
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 21:27:20 2019 -0600
+
+    doctorPanel done?
+
+commit a54c32d8df5be995e77bd1282698b999d9b55c7c
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 20:46:53 2019 -0600
+
+    add Patient for doc
+
+commit 8376e50294ef9462abeb0c25292ed875b2b13d11
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 20:35:37 2019 -0600
+
+    call listPatientPanel (which changed from listDoctorPanel) in build
+
+commit ccc762db296d2a9a84ab8163f2b935bafe5fb5de
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 18:49:46 2019 -0600
+
+    rewrite build
+
+commit f164708c35405e6fd8a5777e535de23bb7766a19
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 17:15:04 2019 -0600
+
+    add DoctorPanel
+
+commit 30d5c45a76f6d5dd7c003bd07d657614015a4cd6
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 17:14:12 2019 -0600
+
+    we need a DoctorPanel so create a new one
+
+commit 2240d3ed510cc93990441a5d8d9ec8ecad2cbf79
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 17:09:48 2019 -0600
+
+    need modify DoctorFrame
+    from PatientFrame
+    param is doctor's name
+
+commit fa04639bb1b7ab44dd37954f26ae68cd6230f501
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 16:58:10 2019 -0600
+
+    we may need a DoctorFrame so create a empty one first and fill after
+
+commit 3bd6edf1f98f08e3750e4547388877575a2190a5
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 16:47:50 2019 -0600
+
+    1st try catch can not work in here ?????
+    if try
+
+commit a146827511df21f348851e3ae494b0875901ebff
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 16:42:05 2019 -0600
+
+    do DoctorAccess from PatientAccess healthNumber part should be changed
+
+commit 7e84ee934f6c3618d8462ea28d18c7771f5d3ac2
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 16:32:57 2019 -0600
+
+    if Doc is Surgeon is true and whatever is or not add a new doctor
+
+commit 77bc1e63af9c96c4dc52635cc7bbccf37dca38e7
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Sat Nov 16 16:29:57 2019 -0600
+
+    copy from addPatient
+    change healthNumber to isSurgeon
+    fix try and catch
+
+commit d6239e9e4c5a33eff7bb53dbb69a4dafc763ed93
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Tue Nov 12 23:11:34 2019 -0600
+
+    begin
