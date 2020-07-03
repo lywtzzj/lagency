@@ -1,0 +1,167 @@
+Yuwen Liu
+yul905
+11219371
+CMPT270
+
+C:\Users\13069\A6>git log
+commit faa4a188647f1dd43ad2d56d87b7604fdc8064a4 (HEAD -> master)
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 18:32:06 2019 -0600
+
+    fixed Game laserList.iterator()
+
+commit 19225a700adc33822a14d8f15d343e01a5eff6dc
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 16:37:30 2019 -0600
+
+    add laser in Game
+
+commit 499f13e0e9190b69e394cbfefa768d14db5b0880
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 16:21:54 2019 -0600
+
+    add in controller
+
+commit 0008ea44de0b301d9b991b420f421e6891d90353
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 16:12:49 2019 -0600
+
+    add frame for newInvadePanel
+
+commit dea7602b549ae23578645402fbe1b9e93f18a66b
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 16:11:06 2019 -0600
+
+    override patientComponent()
+
+commit 1f55fde2b78e6ee4d6f49edc9f4d06472b7be13b
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 16:09:54 2019 -0600
+
+    override gameChanged()
+
+commit 313d35ea78f5ecb4ddb6671967e4614db90e232a
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 16:07:59 2019 -0600
+
+    newInvade method
+
+commit 87dfd6a00a78fca31fa8332d0edd6ea5dfb0bcd9
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 16:07:36 2019 -0600
+
+    from Invade panel
+
+commit 68eb564c23fa9717734599c20ebeb9b1a8f69e2d
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 16:06:27 2019 -0600
+
+    create new invade
+
+commit 3d84abdc2550fea2b2c12ca9e4169f9f83431f39
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 15:58:06 2019 -0600
+
+    add InvadeFrame for panel
+
+commit fe8037872697363707da46bd50c7d4611f271fe7
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 15:54:41 2019 -0600
+
+    fire method add timer and fire(F)
+
+commit f74221cc90717a57b3aa5c01bdf27c2796defc77
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 15:53:18 2019 -0600
+
+    500 delay for timer
+
+commit 9a353993efc12fa0aed2d2e2a72af64410ae0345
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 15:51:12 2019 -0600
+
+    player method use timer
+
+commit 0ce200ac29080306e71c3acb406d49a7b850f32b
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 15:50:50 2019 -0600
+
+    timer for fire
+
+commit a4a3d93377ae0f7c495d5d2889ff259f12c7f4f4
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Mon Dec 2 15:48:48 2019 -0600
+
+    add fot fire
+
+commit 2a53e5a4486d2cc200691444dbb58733c8e2e9bc
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Fri Nov 29 22:00:25 2019 -0600
+
+    player fixed
+
+commit cbe290a1c438bbb0ebf9bd1a8e2a8ed140f00b03
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Fri Nov 29 21:59:16 2019 -0600
+
+    game first change is finished
+
+commit eb4db67702613a9c045e5ac72491963321038ac6
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Fri Nov 29 21:58:22 2019 -0600
+
+    change if statement to be for too
+
+commit d391686fac08d8e2e280dfdc9fe7c47c9292a255
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Fri Nov 29 21:57:33 2019 -0600
+
+    fix addGameObjects
+
+commit d1c43844ffd4097c5e9d9746f83bd14574243355
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Fri Nov 29 21:56:37 2019 -0600
+
+    add laserIterator
+
+commit 195a5f12fe8e948419024e5bfa6406aad0316cd0
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Fri Nov 29 21:56:01 2019 -0600
+
+    fixed update()
+
+commit fef935b559e76afcc430ae04dee5287d3b16f926
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Fri Nov 29 21:55:34 2019 -0600
+
+    fixed initializeNextLevel()
+
+commit d178ba986b3677fe5bbe0feb6dfbb8a3d3d4bacd
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Fri Nov 29 21:51:55 2019 -0600
+
+    changed the object of laser to List of laser
+
+commit c7e23a26edf7ce226d29bbb4c5c506b3c6bc306e
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Fri Nov 29 21:43:58 2019 -0600
+
+    change add laser
+
+commit c3b11e09aa8ac50689f80122710c83c59f2321c5
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Fri Nov 29 21:43:40 2019 -0600
+
+    add method in Game
+
+commit 1eaa46d2ffad206d6720feb8ade979d9e61aca08
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Fri Nov 29 00:12:33 2019 -0600
+
+    run code Game need to be changed
+
+commit 4373b9c1a5bd3142752cc147c707266078d1e3a4
+Author: 13069 <lywtzzj@yahoo.com>
+Date:   Fri Nov 29 00:11:59 2019 -0600
+
+    add a Invader class
