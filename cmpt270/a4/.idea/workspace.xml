@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="A4Q3:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e757c9e-b4b5-4998-aa46-644b2935a917" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/startup/HospitalSystemA4Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/startup/HospitalSystemA4Q3.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/userInterfaces/DialogIO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/userInterfaces/ConsoleIO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/userInterfaces/AbstractDialogIO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-22">
+              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Ward.java" />
+        <option value="$PROJECT_DIR$/src/HospitalSystem.java" />
+        <option value="$PROJECT_DIR$/src/HospitalSystemA4Q1.java" />
+        <option value="$PROJECT_DIR$/src/AbstractDialogIO.java" />
+        <option value="$PROJECT_DIR$/src/InputOutputInterface.java" />
+        <option value="$PROJECT_DIR$/src/container/a.java" />
+        <option value="$PROJECT_DIR$/src/container/DoctorMapAccess .java" />
+        <option value="$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q2/A4Q2/PatientMapAccess.java" />
+        <option value="$PROJECT_DIR$/src/container/DoctorMapAccess.java" />
+        <option value="$PROJECT_DIR$/src/command/AssignDoctor.java" />
+        <option value="$PROJECT_DIR$/src/startup/HospitalSystemA4Q1.java" />
+        <option value="$PROJECT_DIR$/src/container/PatientMapAccess.java" />
+        <option value="$PROJECT_DIR$/src/container/WardAccess.java" />
+        <option value="$PROJECT_DIR$/src/command/DropDoctor.java" />
+        <option value="$PROJECT_DIR$/src/command/NewDoctor.java" />
+        <option value="$PROJECT_DIR$/src/command/EmptyBeds.java" />
+        <option value="$PROJECT_DIR$/src/q3/p2/entities/Ward.java" />
+        <option value="$PROJECT_DIR$/src/WardAccess.java" />
+        <option value="$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q2/A4Q2/DoctorMapAccess.java" />
+        <option value="$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q3/A4Q3/DialogIO.java" />
+        <option value="$PROJECT_DIR$/../OneDrive/270spring/Liu assignment/A4/src/userInterfaces/HospitalSystem.java" />
+        <option value="$PROJECT_DIR$/src/startup/HospitalSystemA4Q2.java" />
+        <option value="$PROJECT_DIR$/src/userInterfaces/DialogIO.java" />
+        <option value="$PROJECT_DIR$/src/userInterfaces/ConsoleIO.java" />
+        <option value="$PROJECT_DIR$/src/startup/HospitalSystemA4Q3.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="A4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="command" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="startup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="userInterfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/q3" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\13069\A4\src\q3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HospitalSystemA4Q3">
+    <configuration name="ConsoleIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="userInterfaces.ConsoleIO" />
+      <module name="A4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="userInterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DialogIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="userInterfaces.DialogIO" />
+      <module name="A4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="userInterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalSystemA4Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p2.startup.HospitalSystemA4Q2" />
+      <module name="A4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalSystemA4Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="startup.HospitalSystemA4Q3" />
+      <module name="A4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="startup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ward" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p2.entities.Ward" />
+      <module name="A4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HospitalSystemA4Q3" />
+        <item itemvalue="Application.DialogIO" />
+        <item itemvalue="Application.ConsoleIO" />
+        <item itemvalue="Application.HospitalSystemA4Q2" />
+        <item itemvalue="Application.Ward" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e757c9e-b4b5-4998-aa46-644b2935a917" name="Default Changelist" comment="" />
+      <created>1572294943405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572294943405</updated>
+    </task>
+    <task id="LOCAL-00001" summary="work begin">
+      <created>1572295598053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572295598054</updated>
+    </task>
+    <task id="LOCAL-00002" summary="display Empty beds is done">
+      <created>1572297182054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572297182054</updated>
+    </task>
+    <task id="LOCAL-00003" summary="display Empty beds is done">
+      <created>1572297260910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572297260910</updated>
+    </task>
+    <task id="LOCAL-00004" summary="release patient from a bed done">
+      <created>1572298540740</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572298540740</updated>
+    </task>
+    <task id="LOCAL-00005" summary="throw renew">
+      <created>1572303061534</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572303061534</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Q2 NewDoctor begin">
+      <created>1572303712245</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572303712245</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new command package">
+      <created>1572303935066</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572303935066</updated>
+    </task>
+    <task id="LOCAL-00008" summary="make mapAccess first PatientMapAccess">
+      <created>1572306383487</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1572306383487</updated>
+    </task>
+    <task id="LOCAL-00009" summary="all MapAccess done">
+      <created>1572325682959</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1572325682959</updated>
+    </task>
+    <task id="LOCAL-00010" summary="go back NewDoctor">
+      <created>1572328385519</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572328385519</updated>
+    </task>
+    <task id="LOCAL-00011" summary="if is surgeon">
+      <created>1572331722393</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1572331722393</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ture">
+      <created>1572334551792</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1572334551792</updated>
+    </task>
+    <task id="LOCAL-00013" summary="catch error">
+      <created>1572334598952</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1572334598952</updated>
+    </task>
+    <task id="LOCAL-00014" summary="successful&#10;= true">
+      <created>1572382224091</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1572382224092</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add a AssignDoctor&#10;back to chang HospitalSystem method">
+      <created>1572492745953</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1572492745953</updated>
+    </task>
+    <task id="LOCAL-00016" summary="HS method addDoctor fixed">
+      <created>1572494341093</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1572494341093</updated>
+    </task>
+    <task id="LOCAL-00017" summary="AssignDoctor done">
+      <created>1572496900372</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1572496900372</updated>
+    </task>
+    <task id="LOCAL-00018" summary="the HS assignDoctor method changed">
+      <created>1572496942694</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1572496942694</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add emptyBed class replace method">
+      <created>1572500770384</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1572500770384</updated>
+    </task>
+    <task id="LOCAL-00020" summary="emptyBed class done">
+      <created>1572502206208</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1572502206208</updated>
+    </task>
+    <task id="LOCAL-00021" summary="HS displayAvaBed changed">
+      <created>1572503527397</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1572503527397</updated>
+    </task>
+    <task id="LOCAL-00022" summary="dropDoctor class replace method">
+      <created>1572504789735</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1572504789735</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Fix all patients and doctors type to be ...MapAccess">
+      <created>1572560606611</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1572560606611</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add comds for ward">
+      <created>1572562331468</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1572562331468</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Q3 &#10;add ConsoleIO for IDE">
+      <created>1572575839494</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1572575839494</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Q3 &#10;add DialogIO for IDE">
+      <created>1572575876189</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1572575876189</updated>
+    </task>
+    <task id="LOCAL-00027" summary="ConsoleIO for input in IDE">
+      <created>1572585275288</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1572585275288</updated>
+    </task>
+    <task id="LOCAL-00028" summary="in HS rewrite all System.out.println to be IOI.outputString/readInt/readString">
+      <created>1572623368849</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1572623368849</updated>
+    </task>
+    <task id="LOCAL-00029" summary="inputOutputInterface &#10;fixed">
+      <created>1572623891305</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1572623891305</updated>
+    </task>
+    <task id="LOCAL-00030" summary="HS IOI output&#10;read*&#10;\n change">
+      <created>1572624456327</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1572624456327</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Dialog adding">
+      <created>1572625042327</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1572625042327</updated>
+    </task>
+    <task id="LOCAL-00032" summary="commit MSG">
+      <created>1572625129285</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1572625129285</updated>
+    </task>
+    <task id="LOCAL-00033" summary="ConsoleIO adding">
+      <created>1572625273550</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1572625273550</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3250346" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3281471" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44554454" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26732674" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.23895028" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3281471" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.042432815" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32956153" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all MapAccess done" />
+    <MESSAGE value="go back NewDoctor" />
+    <MESSAGE value="if is surgeon" />
+    <MESSAGE value="ture" />
+    <MESSAGE value="catch error" />
+    <MESSAGE value="successful&#10;= true" />
+    <MESSAGE value="add a AssignDoctor&#10;back to chang HospitalSystem method" />
+    <MESSAGE value="HS method addDoctor fixed" />
+    <MESSAGE value="AssignDoctor done" />
+    <MESSAGE value="the HS assignDoctor method changed" />
+    <MESSAGE value="add emptyBed class replace method" />
+    <MESSAGE value="emptyBed class done" />
+    <MESSAGE value="HS displayAvaBed changed" />
+    <MESSAGE value="dropDoctor class replace method" />
+    <MESSAGE value="Fix all patients and doctors type to be ...MapAccess" />
+    <MESSAGE value="add comds for ward" />
+    <MESSAGE value="Q3 &#10;add ConsoleIO for IDE" />
+    <MESSAGE value="Q3 &#10;add DialogIO for IDE" />
+    <MESSAGE value="ConsoleIO for input in IDE" />
+    <MESSAGE value="in HS rewrite all System.out.println to be IOI.outputString/readInt/readString" />
+    <MESSAGE value="inputOutputInterface &#10;fixed" />
+    <MESSAGE value="HS IOI output&#10;read*&#10;\n change" />
+    <MESSAGE value="Dialog adding" />
+    <MESSAGE value="commit MSG" />
+    <MESSAGE value="ConsoleIO adding" />
+    <option name="LAST_COMMIT_MESSAGE" value="ConsoleIO adding" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q3/A4Q3/HospitalSystem.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Liu assignment/A4/src/commands/AssignDoctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q2/A4Q2/PatientMapAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entities/Ward.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3014">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q2/A4Q2/EmptyBeds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-211" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q2/A4Q2/DropDoctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q2/A4Q2/AssignDoctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q2/A4Q2/NewDoctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q3/p2/command/AssignDoctor.java" />
+    <entry file="file://$PROJECT_DIR$/src/q3/p2/entities/Surgeon.java" />
+    <entry file="file://$PROJECT_DIR$/src/q3/p2/command/NewDoctor.java" />
+    <entry file="file://$PROJECT_DIR$/src/q3/p2/entities/Patient.java" />
+    <entry file="file://$PROJECT_DIR$/src/q3/p2/userInterfaces/InputOutputInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/q3/p2/startup/HospitalSystemA4Q2.java" />
+    <entry file="file://$PROJECT_DIR$/src/q3/p2/entities/Doctor.java" />
+    <entry file="file://$PROJECT_DIR$/src/q3/p2/entities/BasicDoctor.java" />
+    <entry file="file://$PROJECT_DIR$/src/q3/p2/container/PatientMapAccess.java" />
+    <entry file="file://$PROJECT_DIR$/src/q3/p2/entities/Ward.java" />
+    <entry file="file://$PROJECT_DIR$/src/AssignDoctor.java" />
+    <entry file="file://$PROJECT_DIR$/src/DoctorMapAccess.java" />
+    <entry file="file://$PROJECT_DIR$/src/DropDoctor.java" />
+    <entry file="file://$PROJECT_DIR$/src/EmptyBeds.java" />
+    <entry file="file://$PROJECT_DIR$/src/HospitalSystemA4Q2.java" />
+    <entry file="file://$PROJECT_DIR$/src/NewDoctor.java" />
+    <entry file="file://$PROJECT_DIR$/src/PatientMapAccess.java" />
+    <entry file="file://$PROJECT_DIR$/src/WardAccess.java" />
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q2/A4Q2/DoctorMapAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Liu assignment/A4/src/HospitalSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Liu assignment/A4/src/startup/HospitalSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6842">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Liu assignment/A4/src/userInterfaces/AbstractDialogIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Liu assignment/A4/src/userInterfaces/InputOutputInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Liu assignment/A4/src/userInterfaces/DialogIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Liu assignment/A4/src/userInterfaces/ConsoleIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-841">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Liu assignment/A4/Ward.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1188">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q2/A4Q2/WardAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Liu assignment/A4/src/userInterfaces/HospitalSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q3/A4Q3/DialogIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+          <folding>
+            <element signature="e#1696#1697#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q3/A4Q3/ConsoleIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive/270spring/Assignment+4+Solution-20190912/A4Q3/A4Q3/HospitalSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="212" column="5" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/EmptyBeds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/NewDoctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/DropDoctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/CommandStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/AssignDoctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/WardAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/PatientMapAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/DoctorMapAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/startup/HospitalSystemA4Q3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="273" column="7" lean-forward="true" selection-start-line="273" selection-start-column="7" selection-end-line="273" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/userInterfaces/InputOutputInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/userInterfaces/AbstractDialogIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/userInterfaces/DialogIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/userInterfaces/ConsoleIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>A4Q3:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
